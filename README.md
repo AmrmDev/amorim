@@ -16,9 +16,9 @@ Olá! Eu sou Pedro, um desenvolvedor back-end com sólida experiência em **Pyth
 
 ## 📚 Atualmente Aprimorando
 
-Estou focado em melhorar todos os dias a minha lógica de programação! Exercitando todo dia com desafios e projetos que desafiam e aprimoram meu conhecimento. Também focado em desenvolver meu domínio em **Django** e **Django Rest Framework**, desenvolvendo APIs eficientes para projetos pessoais e futuros desafios, sistemas de gestão e projetos FullStack.
+Estou focado em melhorar todos os dias a minha lógica de programação! Exercitando todo dia com desafios e projetos que desafiam e aprimoram meu conhecimento. Também focado em desenvolver meu domínio em **Django** e **Django Rest Framework**, desenvolvendo APIs eficientes para projetos pessoais e futuros desafios, sistemas de gestão e projetos FullStack. Aprimorando meu conhecimento em bancos de dados relacionais como MySQL, SQLite, para projetos utilizando Django.
 
 ## 📝 Contato
 
 - **Email:** amrm.developer@gmail.com
-- **LinkedIn:** (www.linkedin.com/in/pedroamorimdeveloper)
+- **LinkedIn:** www.linkedin.com/in/pedroamorimdeveloper
