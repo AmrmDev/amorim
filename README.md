@@ -12,7 +12,7 @@ Olá! Eu sou Pedro, um desenvolvedor back-end com sólida experiência em **Pyth
 ## 🔥 Projetos em Destaque
 
 - **[Sistema de Cadastro de Estudantes e Cursos](https://github.com/AmrmDev/Django-API-small-project):** Um sistema completo de cadastro estudantil utilizando o padrão de design MVC.
-- **[Sistema Hospitalar]((https://github.com/AmrmDev/Sistema-Hospitalar)):** Sistema gerencial hospitalar, cadastro de profissionais e pacientes, agendamento de consultas, controle de estoque.
+- **[Sistema Hospitalar](https://github.com/AmrmDev/Sistema-Hospitalar):** Sistema gerencial hospitalar, cadastro de profissionais e pacientes, agendamento de consultas, controle de estoque.
 
 ## 📚 Atualmente Aprimorando
 
