@@ -12,14 +12,13 @@ Olá! Eu sou Pedro, um desenvolvedor back-end com sólida experiência em **Pyth
 ## 🔥 Projetos em Destaque
 
 - **[Sistema de Cadastro de Estudantes e Cursos](https://github.com/AmrmDev/Django-API-small-project):** Um sistema completo de cadastro estudantil utilizando o padrão de design MVC.
-- **[API de Marcação de Consultas](link-para-o-projeto):** API desenvolvida em Django Rest Framework, que gerencia consultas médicas com pacientes e horários.
-- **[E-commerce Ateliê](link-para-o-projeto):** Loja virtual criada com Django para a confecção de panos de prato e itens de cozinha.
+- **[Sistema Hospitalar]((https://github.com/AmrmDev/Sistema-Hospitalar)):** Sistema gerencial hospitalar, cadastro de profissionais e pacientes, agendamento de consultas, controle de estoque.
 
 ## 📚 Atualmente Aprimorando
 
-Estou focado em melhorar meu domínio em **Django** e **Django Rest Framework**, desenvolvendo APIs eficientes para projetos pessoais e futuros desafios.
+Estou focado em melhorar todos os dias a minha lógica de programação! Exercitando todo dia com desafios e projetos que desafiam e aprimoram meu conhecimento. Também focado em desenvolver meu domínio em **Django** e **Django Rest Framework**, desenvolvendo APIs eficientes para projetos pessoais e futuros desafios, sistemas de gestão e projetos FullStack.
 
 ## 📝 Contato
 
-- **Email:** seuemail@email.com
-- **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com)
+- **Email:** amrm.developer@gmail.com
+- **LinkedIn:** (www.linkedin.com/in/pedroamorimdeveloper)
