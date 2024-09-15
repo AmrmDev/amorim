@@ -11,7 +11,7 @@ Olá! Eu sou Pedro, um desenvolvedor back-end com sólida experiência em **Pyth
 
 ## 🔥 Projetos em Destaque
 
-- **[Sistema de Controle Financeiro](link-para-o-projeto):** Um sistema completo de controle financeiro pessoal utilizando o padrão de design MVC.
+- **[Sistema de Cadastro de Estudantes e Cursos](https://github.com/AmrmDev/Django-API-small-project):** Um sistema completo de cadastro estudantil utilizando o padrão de design MVC.
 - **[API de Marcação de Consultas](link-para-o-projeto):** API desenvolvida em Django Rest Framework, que gerencia consultas médicas com pacientes e horários.
 - **[E-commerce Ateliê](link-para-o-projeto):** Loja virtual criada com Django para a confecção de panos de prato e itens de cozinha.
 
