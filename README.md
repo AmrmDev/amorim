@@ -18,6 +18,15 @@ Olá! Eu sou Pedro, um desenvolvedor back-end com sólida experiência em **Pyth
 
 Estou focado em melhorar todos os dias a minha lógica de programação! Exercitando todo dia com desafios e projetos que desafiam e aprimoram meu conhecimento. Também focado em desenvolver meu domínio em **Django** e **Django Rest Framework**, desenvolvendo APIs eficientes para projetos pessoais e futuros desafios, sistemas de gestão e projetos FullStack. Aprimorando meu conhecimento em bancos de dados relacionais como MySQL, SQLite, para projetos utilizando Django.
 
+## Most Used Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 ## 📝 Contato
 
 - **Email:** amrm.developer@gmail.com
