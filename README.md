@@ -2,7 +2,6 @@
 
 I'm a passionate developer focusing on **back-end technologies**, with experience in **Python** and **Django** and currently expanding my skills in **Java**. I'm studying **Analysis and System Development** at USJT. 
 
-##
   
 ![Amorim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrmDev&show_icons=true&theme=dark)
 
