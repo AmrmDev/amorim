@@ -1,33 +1,25 @@
-# Pedro | Desenvolvedor Back-end & Estudante de ADS 🚀
+##  Hi There! I'm Pedro Amorim 👋🏼
 
-Olá! Eu sou Pedro, um desenvolvedor back-end com sólida experiência em **Python** e **JavaScript**, além de habilidades em **HTML**, **CSS**, **Bootstrap** e **Sass**. Atualmente, estou aprimorando meus conhecimentos em **Django** para construir APIs robustas e escaláveis.
+I'm a passionate developer focusing on **back-end technologies**, with experience in **Python** and **Django** and currently expanding my skills in **Java**. I'm studying **Analysis and System Development** at USJT. 
 
-## 🚀 Minhas Tecnologias
+##
+  
+![Amorim's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrmDev&show_icons=true&theme=dark)
 
-- **Linguagens:** Python, JavaScript
-- **Front-end:** HTML, CSS, Bootstrap, Sass
-- **Back-end:** Django, Django Rest Framework
-- **Ferramentas:** Git, Visual Studio Code, Trello
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-## 🔥 Projetos em Destaque
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 
-- **[Sistema de Cadastro de Estudantes e Cursos](https://github.com/AmrmDev/Django-API-small-project):** Um sistema completo de cadastro estudantil utilizando o padrão de design MVC.
-- **[Sistema Hospitalar](https://github.com/AmrmDev/Sistema-Hospitalar):** Sistema gerencial hospitalar, cadastro de profissionais e pacientes, agendamento de consultas, controle de estoque.
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 
-## 📚 Atualmente Aprimorando
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
-Estou focado em melhorar todos os dias a minha lógica de programação! Exercitando todo dia com desafios e projetos que desafiam e aprimoram meu conhecimento. Também focado em desenvolver meu domínio em **Django** e **Django Rest Framework**, desenvolvendo APIs eficientes para projetos pessoais e futuros desafios, sistemas de gestão e projetos FullStack. Aprimorando meu conhecimento em bancos de dados relacionais como MySQL, SQLite, para projetos utilizando Django.
-
-## Most Used Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-## 📝 Contato
-
-- **Email:** amrm.developer@gmail.com
-- **LinkedIn:** www.linkedin.com/in/pedroamorimdeveloper
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
